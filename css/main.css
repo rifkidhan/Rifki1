@@ -1,7 +1,15 @@
 body,html{
     height: 100%;
     margin:0 auto;
-}   
+}
+.link{
+    color:crimson;
+    padding:10px 20px;
+}
+.link:hover{
+   background:darkred;
+    color:azure;
+}
 .section1{
     background: url(../img/maxresdefault.jpg);
     width: 100%;
@@ -12,13 +20,25 @@ body,html{
     font-family: calibri;
     font-size: 70px;
     color: black;
+    margin: auto;
 }
 .sub-judul{
     font-family: calibri;
     font-size: 40px;
     color:#00055b;
+    margin: auto;
 }
 .section2{
     background: #005b5b;
-    padding:100px 0px;
+    padding:200px 0px;
+}
+.section3{
+    background: #00ce5d;
+    padding:200px 0px;
+}
+.col-warna{
+    background: #e0e0e0;
+}
+.col-warna2{
+    background: #f4f4f4;
 }
