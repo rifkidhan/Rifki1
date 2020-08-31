@@ -1,0 +1,423 @@
+[
+  {
+    "_component": "text",
+    "_classes": "bg-scroll bg-scroll-title bg-scroll-body",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "PENGERTIAN ISBD",
+    "displayTitle": "PENGERTIAN ISBD",
+    "body": "<p>Sebagai ilmu pengetahuan, Ilmu Sosial Budaya Dasar (ISBD) tidaklah berdiri sendiri. ISBD memiliki pertautan dengan disiplin ilmu pengetahuan lainnya. Oleh sebab itu, konsep-konsep yang digunakan dalam kajian ISBD berasal dari berbagai bidang disiplin ilmu-ilmu sosial, seperti, sosiologi, sejarah, politik, ekonomi, geografi, antropologi, dan ilmu pengetahuan lainnya.</p>",
+    "_id": "5ee7909e85948105cc84c4db",
+    "_parentId": "5ee7909e85948105cc84c4da",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "bg-only bg-only-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Foto VISI",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5ee89af669b5c1268ca1a1dd",
+    "_parentId": "5ee89adc69b5c1268ca1a1dc",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d4fb17b3ec02eee9a40aed3db86a442b7839f9b7.png",
+      "small": "course/en/assets/d4fb17b3ec02eee9a40aed3db86a442b7839f9b7.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "bg-only bg-only-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "VISI ISBD",
+    "displayTitle": "VISI ISBD",
+    "body": "<p>Agar berkembangnya mahasiswa sebagai manusia terpelajar yang kritis, peka, dan arif dalam memahami keragaman dan kemartabatan manusia yang dilandasi nilai – nilai estetika, etika, dan moral dalam kehidupan bermasyarakat</p>",
+    "_id": "5ee89aff69b5c1268ca1a1de",
+    "_parentId": "5ee89adc69b5c1268ca1a1dc",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "MISI ISBD",
+    "displayTitle": "MISI ISBD",
+    "body": "",
+    "_id": "5ee89b1c69b5c1268ca1a1e0",
+    "_parentId": "5ee89b0469b5c1268ca1a1df",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Memberikan landasan dan wawasan yang luas, serta menumbuhkan sikap kritis, peka, dan arif pada mahasiswa untuk memahami keragaman, kesederajatan, dan kemartabatan manusia dalam kehidupan bermasyarakat selaku individu dan makhluk sosial yang beradab serta bertanggung jawab terhadap sumber daya dan lingkungannya.</p>",
+        "_graphic": {
+          "src": "course/en/assets/fafffad0ef19735dfe410abe62de456a16040c67.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Misi 1"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Memberikan pengetahuan dan wawasan tentang keragaman, kesetaraan, dan martabat manusia sebagai individu dan makhluk sosial dalam kehidupan masyarakat.</p>",
+        "_graphic": {
+          "src": "course/en/assets/7ccb13a30bc3fd6e627f1fbf941ad4b6f6171c46.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Misi 2"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Memberikan dasar – dasar nilai estetika, etika moral, hukum dan budaya sebagai landasan untuk menghormati dan menghargai antara sesama manusia sehingga akan terwujud masyarakat tertib, teratur dan sejahtera.</p>",
+        "_graphic": {
+          "src": "course/en/assets/6434760283ba8993135dd39a7793fa6e0e4e8369.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Misi 3"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Memberikan dasar – dasar untuk memahami masalah&nbsp; masalah sosial budaya serta mampu untuk bersikap, kritis, analitis dan responsif untuk&nbsp; memecahkan masalah tersebut secara arif di masyarakat.</p>",
+        "_graphic": {
+          "src": "course/en/assets/0e42af7fe01e3808695192ed64320d0a5f8da66b.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Misi 4"
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "TUJUAN ISBD",
+    "displayTitle": "TUJUAN ISBD",
+    "body": "",
+    "_id": "5ee89b3e69b5c1268ca1a1e2",
+    "_parentId": "5ee8cad869b5c1268ca1a225",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Tujuan Umum",
+        "body": "<ol><li>Pengembangan kepribadian manusia sebagai makhluk sosial dan makhluk budaya.</li><li>Kemampuan menyelesaikan secara kritis dan berwawasan luas masalah sosial budaya danmasalah lingkungan.</li><li>Kemampuan menyelesaikan secara halus,</li><li>Mengembangkan kesadaran mahasiswa untuk menguasai pengetahuan tentang keragaman dan kesetaraan manusia sebagai individu dan makhluk sosial dalam kehidupan barmasyarakat.</li><li>Menumbuhkan sikap kritis, peka dan arif pada mahasiswa dalam memahami dan memecahkan masalah sosial budaya dengan landasan nilai estetika, etika, moral dan hukum dalam kehidupan bermasyarakat.</li><li>Memberikan landasan pengetahuan dan wawasan yang luas serta keyakinan kepada mahasiswa sebagai bakal hidup bermasyarakat selaku individu dan makhluk sosial yang beradab dalam mempraktikan pengetahuan akademis dan keahlian.</li></ol>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Tujuan Khusus",
+        "body": "<ol><li>Mempertajam kepekaan terhadap sosial budaya dan lingkungan sosial budaya terhadap kepentingan profesi.</li><li>Memperluas pandangan tentang masalah sosial budaya dan masalah kemanusiaan serta mengembangkan daya kritis terhadap kedua masalah tersebut</li><li>Menghasilkan calon pemimpin bangsa dan negara yang tidak bersifat kedaerahan dan tidak terkotak-kotak</li></ol>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "PENDEKATAN DALAM ISBD",
+    "displayTitle": "PENDEKATAN DALAM ISBD",
+    "body": "<p>Dalam ISBD diperlukan beberapa pendekatan, yaitu :</p>",
+    "_id": "5ee89d1169b5c1268ca1a1e7",
+    "_parentId": "5ee8caf869b5c1268ca1a226",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Pendekatan Interdisipliner",
+        "_ariaLevel": 0,
+        "body": "<p>Pendekatan interdisipliner adalah pendekatan dalam pemecahan suatu masalah dengan menggunakan tinjauan berbagai sudut pandang ilmu serumpun yang relevan atau tepat guna secara terpadu. Dalam pemecahan masalahannya di bidang ekonomi dengan interdisipliner hanya dengan satu ilmu saja yang serumpun.</p>",
+        "_graphic": {
+          "src": "course/en/assets/b29741ca8e54b2cd9f55142dd1d7eaccd6fccd87.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Pendekatan Interdisipliner"
+      },
+      {
+        "title": "Pendekatan Monodisipliner",
+        "_ariaLevel": 0,
+        "body": "<p>Pendekatan monodisipliner&nbsp;artinya menggunakan tertentu dalam ilmu-ilmu sosial dan ilmu-ilmu budaya secara terpisah, seperti&nbsp;sejarah, hukum. geografi, politik, sosiologi, antropolgi, seni, sastra, atau psikologi sosial.</p>",
+        "_graphic": {
+          "src": "course/en/assets/f2080debdf30aa2a0cbccda1a1d81928fc738987.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Pendekatan Monodisipliner"
+      },
+      {
+        "title": "Pendekatan Multidisipliner",
+        "_ariaLevel": 0,
+        "body": "<p>Pendekatan multidisipliner adalah pendekatan dalam pemecahan suatu masalah dengan menggunakan berbagai sudut pandang banyak ilmu yang relevan.&nbsp;Pendekatan dibagi lagi menjadi 3, yaitu :</p><ol><li>Pendekatan struktural</li><li>Pendekatan fungsional</li><li>Pendekatan Interfield</li></ol>",
+        "_graphic": {
+          "src": "course/en/assets/a115419d1816bfc840362e910fde16bd9e22a379.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Pendekatan Multidisipliner"
+      }
+    ]
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "LATAR BELAKANG PEDAGOGIS",
+    "displayTitle": "LATAR BELAKANG PEDAGOGIS",
+    "body": "",
+    "_id": "5f315e166a6373040cff638b",
+    "_parentId": "5f315d9a6a6373040cff638a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Klik pada pin",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/7745adb350330792b0f347f81a735521ef0c5e1a.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": true,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "Dulu",
+        "_ariaLevel": 0,
+        "body": "<p>Dulu, pembelajaran hanya berfokus kepada dosen semata, dengan metode ceramah.</p>",
+        "strapline": "Dulu",
+        "_graphic": {
+          "src": "course/en/assets/926a0767288009470800ea16751ca91c0d42571d.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 8,
+        "_top": 38
+      },
+      {
+        "title": "UNESCO 1998",
+        "_ariaLevel": 0,
+        "body": "<p>Semenjak masa ini, pembelajaran bukan hanya ceramah, melainkan berkembang seperti:</p><ol><li>Pembelajaran untuk tahu</li><li>Pembelajaran untuk berbuat</li><li>Pembelajaran untuk membangun jati diri</li><li>Pembelajaran untuk hidup bersama secara harmonis</li></ol>",
+        "strapline": "UNESCO 1998",
+        "_graphic": {
+          "src": "course/en/assets/c88ca9e0ec8eda6941a4083e87d0c406c90f1d40.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 41,
+        "_top": 38
+      },
+      {
+        "title": "Sekarang",
+        "_ariaLevel": 0,
+        "body": "<p>Sekarang, pembelajaran yang dibutuhkan adalah mampu menciptakan suasana yang bermakna, menyenangkan, kreatif, dinamis dan dialog kreatif</p>",
+        "strapline": "Sekarang",
+        "_graphic": {
+          "src": "course/en/assets/566a8e60a395db8a77233450f5399030d46369c1.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 74,
+        "_top": 38
+      }
+    ]
+  },
+  {
+    "_component": "stacklist",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "LATAR BELAKANG YURIDIS",
+    "displayTitle": "LATAR BELAKANG YURIDIS",
+    "body": "<p>Pembelajaran ISBD ada karena adanya dasar yuridis.</p>",
+    "_id": "5f31660b6a6373040cff6394",
+    "_parentId": "5f3165ef6a6373040cff6393",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>Undang – undang No. 20 Tahun 2003 pasal 40 ayat 1.</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Skpt Dirjen DIKTI No. 34/ DIKTI-Kep/2003</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Skpt Dirjen DIKTI N0. 44/ DIKTI – Kep/2006</p>",
+        "next": ""
+      }
+    ],
+    "_button": {
+      "startText": "Klik disini untuk melihat",
+      "continueText": "Selanjutnya"
+    }
+  }
+]

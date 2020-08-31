@@ -1,0 +1,56 @@
+[
+  {
+    "title": "BG scroll",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-bg",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5ee7909e85948105cc84c4d9",
+    "_parentId": "5ee7909d85948105cc84c4d8",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    }
+  },
+  {
+    "title": "Parallax",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bg-blue",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5ee7ac957a8eac314cf115d4",
+    "_parentId": "5ee7909d85948105cc84c4d8",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    }
+  }
+]
